@@ -1,3 +1,6 @@
+import os
+import sys
+
 print('-------Hey! Welcome to KBC game------- ')
 play=input("Do you want to play? ")
 if play.lower()=="yes":
