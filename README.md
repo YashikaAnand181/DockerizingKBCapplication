@@ -1,3 +1,3 @@
-# DockerizingKBCapplication
+# DockerizingSystemTimeApplication
 
-This is about deploying a python based KBC application on Docker 
+This is about deploying a python based SystemTime application on Docker 
